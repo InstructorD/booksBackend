@@ -1,0 +1,9 @@
+delete http://localhost:3000/books/605a7a17d7fb3c2f5c0e196c
+content-type:application/json
+
+{
+	"title":"The Bears' Christmas",
+	"authors":["Jan Berenstein", "Stan Berenstain"],
+	"publisher":"Random House Books for Young Readers",
+	"publishDate":"1970-7-1"
+}
